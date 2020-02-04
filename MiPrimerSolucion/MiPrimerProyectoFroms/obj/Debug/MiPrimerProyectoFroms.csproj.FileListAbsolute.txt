@@ -1,0 +1,9 @@
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\bin\Debug\MiPrimerProyectoFroms.exe.config
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\bin\Debug\MiPrimerProyectoFroms.exe
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\bin\Debug\MiPrimerProyectoFroms.pdb
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\obj\Debug\MiPrimerProyectoFroms.csprojAssemblyReference.cache
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\obj\Debug\MiPrimerProyectoFroms.Form1.resources
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\obj\Debug\MiPrimerProyectoFroms.Properties.Resources.resources
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\obj\Debug\MiPrimerProyectoFroms.csproj.GenerateResource.cache
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\obj\Debug\MiPrimerProyectoFroms.exe
+C:\Users\apellido de mama\Documents\MiPrimerSolucion\MiPrimerProyectoFroms\obj\Debug\MiPrimerProyectoFroms.pdb
